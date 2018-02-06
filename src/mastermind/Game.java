@@ -300,10 +300,6 @@ public class Game extends javax.swing.JFrame {
         submit();
     }//GEN-LAST:event_jButton1MouseClicked
 
-    private void jPanel1ComponentResized(java.awt.event.ComponentEvent evt) {//GEN-FIRST:event_jPanel1ComponentResized
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jPanel1ComponentResized
-
     /**
      * @param args the command line arguments
      */
